@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Samira Yano
+# Samira Yano
 
 ### 📊 Explorando o mundo dos Dados
 
