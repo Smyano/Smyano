@@ -16,15 +16,21 @@ Gosto de aprender novas tecnologias e, principalmente, de entender como elas pod
 
 ## 📊 Dados & Análise
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,databricks)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+&nbsp;
+[![Databricks](https://img.shields.io/badge/Databricks-EF3A3A?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+&nbsp;
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+&nbsp;
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 
-## 🤖 Inteligência Artificial
+## 🤖 Inteligência Artificial & Automação
 
-[![My Skills](https://skillicons.dev/icons?i=openai)](https://skillicons.dev)
-
-### Ferramentas
-
-Power BI · Excel · n8n · Power Automate
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+&nbsp;
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+&nbsp;
+[![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)](https://www.microsoft.com/power-platform/products/power-automate)
 ---
 
 ## 📫 Contato
