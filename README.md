@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👩🏻‍💻 Samira Yano
 
-<!--
-**Smyano/Smyano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Explorando o mundo dos Dados
 
-Here are some ideas to get you started:
+Olá! Eu sou a Samira, estudante de Análise e Desenvolvimento de Sistemas e fascinada pelo mundo da tecnologia tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou desenvolvendo meus conhecimentos em programação, com foco em Python, e explorando áreas como Análise de Dados e Inteligência Artificial.
+
+Gosto de aprender novas tecnologias e, principalmente, de entender como elas podem ser utilizadas para transformar processos, solucionar problemas e tornar as atividades do dia a dia mais práticas e eficientes.
+
+---
+
+## 💻 Linguagens & Desenvolvimento
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,react,html,css)](https://skillicons.dev)
+
+## 📊 Dados & Análise
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,databricks)](https://skillicons.dev)
+
+## 🤖 Inteligência Artificial
+
+[![My Skills](https://skillicons.dev/icons?i=openai)](https://skillicons.dev)
+
+### Ferramentas
+
+Power BI · Excel · n8n · Power Automate
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samira%20Yano-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samira-yano-4a54722b7/)
